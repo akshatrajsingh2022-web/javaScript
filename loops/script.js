@@ -1,4 +1,4 @@
-/*
+
  //FOR LOOP
 for(let i=1;i<=100;i++){
     console.log(i);
@@ -21,7 +21,6 @@ do{
 }
 while(i>0)
 
-*/
 //break and continue
 for(let i=0;i<20;i++){
     if (i==5) continue;
